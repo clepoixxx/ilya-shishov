@@ -1,1 +1,6 @@
-let vopros = prompt("Вы втупляте что проиходит?");
+/*const userData = {
+name : "ilya",
+age : "10",
+};
+console.log(userData);
+*/
